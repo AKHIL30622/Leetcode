@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -42,4 +43,9 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AKHIL30622/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
