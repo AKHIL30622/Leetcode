@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AKHIL30622/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
