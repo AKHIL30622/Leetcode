@@ -6,12 +6,14 @@
 | ------- |
 | [0015-3sum](https://github.com/AKHIL30622/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AKHIL30622/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AKHIL30622/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
 ## String Matching
 |  |
@@ -74,4 +76,8 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
