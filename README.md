@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
