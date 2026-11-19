@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/AKHIL30622/Leetcode/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
