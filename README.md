@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AKHIL30622/Leetcode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -79,8 +82,25 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AKHIL30622/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AKHIL30622/Leetcode/tree/master/0392-is-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
