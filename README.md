@@ -67,6 +67,7 @@
 | [0049-group-anagrams](https://github.com/AKHIL30622/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AKHIL30622/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AKHIL30622/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AKHIL30622/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
