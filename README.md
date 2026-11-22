@@ -69,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/AKHIL30622/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AKHIL30622/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AKHIL30622/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
