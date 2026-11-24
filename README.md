@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AKHIL30622/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
