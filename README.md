@@ -41,11 +41,13 @@
 | [0066-plus-one](https://github.com/AKHIL30622/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AKHIL30622/Leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
+| [3360-stone-removal-game](https://github.com/AKHIL30622/Leetcode/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AKHIL30622/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AKHIL30622/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [3360-stone-removal-game](https://github.com/AKHIL30622/Leetcode/tree/master/3360-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
