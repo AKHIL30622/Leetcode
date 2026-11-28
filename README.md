@@ -18,6 +18,7 @@
 | [0520-detect-capital](https://github.com/AKHIL30622/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/AKHIL30622/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AKHIL30622/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AKHIL30622/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## String Matching
 |  |
 | ------- |
